@@ -1,0 +1,26 @@
+[
+    {
+        "title": "HTML",
+        "imageSrc": "skills/html.svg"
+    },
+    {
+        "title": "CSS",
+        "imageSrc": "skills/css.svg"
+    },
+    {
+        "title": "React",
+        "imageSrc": "skills/react.svg"
+    },
+    {
+        "title": "Dotnet",
+        "imageSrc": "skills/dotnet.svg"
+    },
+    {
+        "title": "SQL",
+        "imageSrc": "skills/sql.svg"
+    },
+    {
+        "title": "Bootstrap",
+        "imageSrc": "skills/bootstrap.svg"
+    }
+]
