@@ -61,8 +61,8 @@
         align-items: right;
         gap: 13px;
         border-radius: 10px;
-        background: rgb(39, 74, 143);
-        background: linear-gradient(0deg, rgba(14, 60, 146, 0.2)0%, rgb(15, 76, 190)100%);
+        background: rgb(227, 61, 148);
+        background: linear-gradient(0deg, rgba(207, 47, 116)0%, rgb(219, 10, 91)100%);
         padding: 24px 33px;
         box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
     }
