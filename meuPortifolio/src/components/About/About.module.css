@@ -2,7 +2,7 @@
 
 .container {
     position: relative;
-    background-color: rgb(231, 70, 156);
+    background: linear-gradient(180deg, #e6197f 0%, #d49176 100%);
     border-radius: 15px;
     padding: 73px;
     margin-top: 129px;
