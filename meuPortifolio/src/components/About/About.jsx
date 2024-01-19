@@ -12,8 +12,8 @@ export const About = () => {
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/cursor.svg")} alt="Cursor" />
                         <div className={styles.aboutItemText}>
-                            <h3>Desensolvedora Fullstack</h3>
-                            <p>lorem ipsulum lorem ipsulum lorem ipsulum lorem ipsulum lorem ipsulum</p>
+                            <h3>Dsenvolvedora Fullstack</h3>
+                            <p>Tenho 23 anos, sou graduanda em Engenharia de Software e estagiária de desenvolvimento na empresa Grendene. Mas antes de me encontrar no mundo diverso da tecnologia, fui graduanda do curso de Ciências Contábeis. Tranquei em 2022,e consegui uma vaga em um Bootcamp pratrocinada pela STONE. Foram seis intensos meses de aulas voltadas para o Desenvolvimento Web com foco em React e Nodejs. Em abril do ano seguinte, foi quando consegui minha primeira oportunidade na área. </p>
                         </div>
                     </li>
                 </ul>
