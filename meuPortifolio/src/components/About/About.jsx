@@ -12,8 +12,8 @@ export const About = () => {
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/cursor.svg")} alt="Cursor" />
                         <div className={styles.aboutItemText}>
-                            <h3>Desensolvedora Front End</h3>
-                            <p>Lorem ipsulum - sou uma _ com experiencia em _</p>
+                            <h3>Desensolvedora Fullstack</h3>
+                            <p>lorem ipsulum lorem ipsulum lorem ipsulum lorem ipsulum lorem ipsulum</p>
                         </div>
                     </li>
                 </ul>
