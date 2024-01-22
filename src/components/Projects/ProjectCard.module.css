@@ -6,8 +6,8 @@
     border-radius: 10px;
     background: linear-gradient(180deg, #e6197f 0%, #d49176 100%);
     box-shadow: 0 16px 14px 0 #de3163;
-    padding: 18px 24px;
-    max-width: 345px;
+    padding: 24px 24px;
+    max-width: 400px;
 }
 
 .image {

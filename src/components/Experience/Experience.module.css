@@ -68,7 +68,7 @@
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: 17px;
+    gap: 25px;
     background: #df1aa463;
     background: linear-gradient(180deg, #e6197f 0%, #d49176 100%);
     border-radius: 10px;
@@ -76,7 +76,7 @@
 }
 
 .historyItem img {
-    width: 50px;
+    width: 80px;
 }
 
 .historyItemDetails {
@@ -84,14 +84,18 @@
 }
 
 .historyItemDetails h3 {
-    font-size: 25px;
+    font-size: 30px;
     font-weight: 300;
+}
+
+.historyItemDetails p {
+    font-size: 20px;
 }
 
 .historyItemDetails ul {
     margin-top: 6px;
     list-style-position: inside;
-    font-size: 18px;
+    font-size: 25px;
     list-style-type: disc;
     margin-left: 17px;
 }
