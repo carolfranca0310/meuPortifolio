@@ -16,11 +16,11 @@
         "source": "https://github.com/carolfranca0310/formulario_cadastro"
     },
     {
-        "title": "Projeto A",
-        "imageSrc": "projects/project.png",
-        "description": "descrição aqui",
-        "skills": "linguagens ex: c#, sql",
-        "demo": "link do site",
-        "source": "github - repositorio"
+        "title": "Soluction-E",
+        "imageSrc": "projects/soluctionE.png",
+        "description": "Um site simples voltado para o estudo de javascript, aqui foi consumida a API dos correios. Projeto feito em equipe.",
+        "skills": " HTML CSS Javascript",
+        "demo": "https://bruxvr.github.io/projeto-final-m2/",
+        "source": "https://github.com/bruxvr/projeto-final-m2"
     }
 ]
