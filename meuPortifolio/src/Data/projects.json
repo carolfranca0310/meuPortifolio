@@ -1,11 +1,11 @@
 [
     {
-        "title": "Projeto A",
+        "title": "BikCraft",
         "imageSrc": "projects/project.png",
-        "description": "descrição aqui",
-        "skills": "linguagens ex: c#, sql",
-        "demo": "link do site",
-        "source": "github - repositorio"
+        "description": "Site feito apenas com HTML e CSS, responsivo com uso de técnicas de design UX/UI. Proposta: um site de compra de bicicletas elétricas, com telas de seguros e contato. ",
+        "skills": "HTML CSS JAVASCRIPT",
+        "demo": "https://carolfranca0310.github.io/BikCraft-Projeto-Final/",
+        "source": "https://github.com/carolfranca0310/BikCraft-Projeto-Final"
     },
     {
         "title": "Projeto A",
