@@ -102,10 +102,13 @@
 @media screen and (max-width: 830px) {
     .container {
         flex-direction: column-reverse;
+        padding: 25px;
     }
 
     .content {
         align-items: center;
         text-align: center;
     }
+
+
 }
