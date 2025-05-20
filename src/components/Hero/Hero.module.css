@@ -17,6 +17,7 @@
     align-items: flex-start;
     color: var(--color-text2);
     z-index: 1;
+    padding-bottom: 15px;
 }
 
 .title {
@@ -38,18 +39,20 @@
 
 .contactBtn {
     text-decoration: none;
-    background: linear-gradient(180deg, #e6197f 0%, #d49176 100%);
+    background: linear-gradient(180deg, #946262 0%, #d49176 100%);
     color: var(--color-text);
     border-radius: 100px;
     font-size: 30px;
     font-weight: 600;
     padding: 17px 26px;
     box-shadow: 0 0 4px 0, rgba(210, 180, 140);
+    gap: 15px;
 }
 
 .heroImg {
     width: 50%;
     z-index: 1;
+    border-radius: 100%;
 
     animation-name: floating;
     animation-duration: 3s;

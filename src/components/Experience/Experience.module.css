@@ -37,7 +37,7 @@
 }
 
 .skillImageContainer {
-    background: linear-gradient(180deg, #e6197f 0%, #d49176 100%);
+    background: linear-gradient(180deg, #946262 0%, #d49176 100%);
     border-radius: 100%;
     display: flex;
     align-items: center;
@@ -71,13 +71,14 @@
     align-items: center;
     gap: 25px;
     background: #df1aa463;
-    background: linear-gradient(180deg, #e6197f 0%, #d49176 100%);
+    background: linear-gradient(180deg, #946262 0%, #d49176 100%);
     border-radius: 10px;
     padding: 24px;
 }
 
 .historyItem img {
     width: 80px;
+    border-radius: 100%;
 }
 
 .historyItemDetails {

@@ -46,7 +46,7 @@
     display: flex;
     align-items: center;
     gap: 25px;
-    background: linear-gradient(90deg, rgb(124, 13, 78) 70%, rgba(255, 255, 255, 0) 120%);
+    background: linear-gradient(120deg, #bea85e, #7c4e4e, #946262);
     border-radius: 20px;
     padding: 10px;
     width: 100%;

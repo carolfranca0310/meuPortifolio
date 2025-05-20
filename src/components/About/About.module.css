@@ -2,7 +2,7 @@
 
 .container {
     position: relative;
-    background: linear-gradient(180deg, #e6197f 0%, #d49176 100%);
+    background: linear-gradient(135deg, #885959, #7b4a3e, #a9746e);
     border-radius: 15px;
     padding: 50px;
     z-index: 1;
@@ -26,7 +26,8 @@
 }
 
 .aboutImage {
-    width: 35%;
+    width: 30%;
+    border-radius: 100%;
 }
 
 .aboutItems {
@@ -43,7 +44,7 @@
     border-radius: 20px;
     list-style: none;
     padding: 25px;
-    background-image: linear-gradient(90deg, rgba(207, 139, 196, 0.42)0%, rgba(231, 70, 156)100%);
+    background-image: linear-gradient(90deg, rgba(97, 37, 19, 0.42)0%, rgb(105, 64, 70)100%);
     background-size: 0 100%;
     background-repeat: no-repeat;
     transition: 0.4s;
