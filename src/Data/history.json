@@ -1,12 +1,25 @@
 [
     {
-        "role": "Estagiário de Desenvolvimento",
-        "organisation": "Grendene SA",
-        "startDate": "Abril/2023",
-        "endDate": "- Atualmente",
-        "experiences": [
-            "Iniciei minha carreira atuando com as plataformas OutSystems e Progress, onde desenvolvi habilidades valiosas em garantir a estabilidade e eficiência de sistemas essenciais. Ao longo do tempo, evolui para trabalhar com tecnologias modernas, atuando na manutenção e sustentação de aplicações utilizando .NET e React."
-        ],
-        "imageSrc": "history/logo.png"
-    }
+  "role": "Software Development Intern",
+  "organisation": "Tekna Rocks",
+  "startDate": "04/2024",
+  "endDate": "04/2025",
+  "experiences": [
+    "Developing web applications using Angular, React, NestJS, and TypeScript.",
+    "Creating and consuming REST APIs, including routes for creating, listing, updating, and deleting data.",
+    "Integrating with external services and private APIs."
+  ],
+  "imageSrc": "history/tuntsrocks_logo.jpeg"
+},
+{
+  "role": "Software Development Intern",
+  "organisation": "Grendene SA",
+  "startDate": "04/2023",
+  "endDate": "04/2024",
+  "experiences": [
+    "Began my career working with OutSystems and Progress platforms, where I gained valuable experience ensuring system stability and efficiency. Over time, I transitioned to working with modern technologies, focusing on the maintenance and support of applications using .NET and React."
+  ],
+  "imageSrc": "history/logo.png"
+}
+
 ]

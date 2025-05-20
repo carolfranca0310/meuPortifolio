@@ -8,14 +8,14 @@ export const Navbar = () => {
 
     return (
         <nav className={styles.navbar}>
-            <a className={styles.title} href="/">Portfólio</a>
+            <a className={styles.title} href="/">Developer Portfolio </a>
             <div className={styles.menu}>
                 <img className={styles.menuBtn} src={menuOpen ? getImageUrl("nav/closeIcon.png") : getImageUrl("nav/menuIcon.png")} alt="menu-button" onClick={() => setMenuOpen(!menuOpen)} />
                 <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen} onclick={() => setMenuOpen(false)}`}>
-                    <li><a href="#about">Sobre mim</a></li>
-                    <li><a href="#experience">Experiências</a></li>
-                    <li><a href="#projects">Projetos</a></li>
-                    <li><a href="#contact">Entre em contato</a></li>
+                    <li><a href="#about">About me</a></li>
+                    <li><a href="#experience">Experiences</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contact">Contact Me</a></li>
                 </ul>
             </div>
         </nav >

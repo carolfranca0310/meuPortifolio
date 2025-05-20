@@ -1,26 +1,22 @@
 [
     {
-        "title": "HTML",
-        "imageSrc": "skills/html.svg"
+        "title": "Angular",
+        "imageSrc": "skills/angular.png"
     },
     {
-        "title": "CSS",
-        "imageSrc": "skills/css.svg"
+        "title": "Typescript",
+        "imageSrc": "skills/ts.png"
     },
     {
         "title": "React",
         "imageSrc": "skills/react.svg"
     },
     {
-        "title": "Dotnet",
-        "imageSrc": "skills/dotnet.svg"
+        "title": "NestJS",
+        "imageSrc": "skills/node.svg"
     },
     {
-        "title": "SQL",
-        "imageSrc": "skills/sql.svg"
-    },
-    {
-        "title": "Bootstrap",
-        "imageSrc": "skills/bootstrap.svg"
+        "title": "NodeJs",
+        "imageSrc": "skills/node.svg"
     }
 ]

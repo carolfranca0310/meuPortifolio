@@ -5,15 +5,14 @@ import styles from "./About.module.css";
 export const About = () => {
     return (
         <section className={styles.container} id="about">
-            <h2 className={styles.title}>Sobre mim</h2>
+            <h2 className={styles.title}>About me</h2>
             <div className={styles.content}>
-                <img src={getImageUrl("about/Image.png")} alt="Uma ilustração de uma mulher negra com uma tiara e um livro nas mãos" className={styles.aboutImage} />
                 <ul className={styles.aboutItems}>
                     <li className={styles.aboutItem}>
                         <img src={getImageUrl("about/cursor.svg")} alt="Cursor" />
                         <div className={styles.aboutItemText}>
-                            <h3>Dsenvolvedora Fullstack</h3>
-                            <p>Tenho 23 anos, sou graduanda em Engenharia de Software e estagiária de desenvolvimento na empresa Grendene. Mas antes de me encontrar no mundo diverso da tecnologia, fui graduanda do curso de Ciências Contábeis. Tranquei em 2022,e consegui uma vaga em um Bootcamp pratrocinada pela STONE. Foram seis intensos meses de aulas voltadas para o Desenvolvimento Web com foco em React e Nodejs. Em abril do ano seguinte, foi quando consegui minha primeira oportunidade na área. </p>
+                            <h3>Sofware Developer</h3>
+                            <p>I’m 24 years old and currently pursuing a degree in Software Engineering. Before discovering my passion for the diverse world of technology, I was enrolled in an Accounting program. I paused those studies in 2022 after being selected for a Bootcamp sponsored by STONE, where I completed six intensive months focused on Web Development with an emphasis on React and Node.js. In April of the following year, I landed my first opportunity in tech as a development intern. In 2024, I joined the Dev Training program and secured my second role in the field. </p>
                         </div>
                     </li>
                 </ul>

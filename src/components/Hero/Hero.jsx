@@ -7,11 +7,11 @@ export const Hero = () => {
     return (
         <section className={styles.container}>
             <div className={styles.content}>
-                <h1 className={styles.title}>Olá, eu sou Caroline!</h1>
-                <p className={styles.description}>Desenvolvedora Fullstack</p>
-                <a className={styles.contactBtn} href="mailto:carolfranca0310@gmail.com">Entre em contato!</a>
+                <h1 className={styles.title}>Hi, i'm Caroline!</h1>
+                <p className={styles.description}>Software Developer</p>
+                <a className={styles.contactBtn} href="mailto:carolfranca0310@gmail.com">Contact me!</a>
             </div>
-            <img src={getImageUrl("hero/heroImage2.png")} alt="Imagem de mim" className={styles.heroImg} />
+            <img src={getImageUrl("hero/profile.png")} alt="Imagem de mim" className={styles.heroImg} />
             <div className={styles.topBlur} />
             <div className={styles.bottomBlur} />
         </section>

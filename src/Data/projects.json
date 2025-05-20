@@ -2,15 +2,15 @@
     {
         "title": "BikCraft",
         "imageSrc": "projects/bikeCraft.png",
-        "description": "Site feito apenas com HTML,CSS e jascript, responsivo com uso de técnicas de design UX/UI.",
-        "skills": "HTML CSS Javascript",
+        "description": "Website built using only HTML, CSS, and JavaScript. Fully responsive, following UX/UI design principles.",
+        "skills": "HTML CSS JavaScript",
         "demo": "https://github.com/carolfranca0310/BikCraft-Projeto-Final",
         "source": "https://carolfranca0310.github.io/BikCraft-Projeto-Final/"
     },
     {
-        "title": "Formulário de Cadastro",
+        "title": "Registration Form",
         "imageSrc": "projects/form.png",
-        "description": "Atividade simples de um formulário feito em HTML e CSS com o intuito de praticar habilidades no CSS.",
+        "description": "A simple registration form created with HTML and CSS, aimed at practicing CSS styling skills.",
         "skills": "HTML CSS",
         "demo": "https://github.com/carolfranca0310/formulario_cadastro",
         "source": "https://carolfranca0310.github.io/formulario_cadastro/"
@@ -18,8 +18,8 @@
     {
         "title": "Soluction-E",
         "imageSrc": "projects/soluctionE.png",
-        "description": "Um site simples voltado para o estudo de javascript, aqui foi consumida a API dos correios. Projeto feito em equipe.",
-        "skills": " HTML CSS Javascript",
+        "description": "A simple website focused on JavaScript learning. This project integrates the Brazilian postal service API (Correios) and was developed collaboratively.",
+        "skills": "HTML CSS JavaScript",
         "demo": "https://github.com/bruxvr/projeto-final-m2",
         "source": "https://bruxvr.github.io/projeto-final-m2/"
     }
