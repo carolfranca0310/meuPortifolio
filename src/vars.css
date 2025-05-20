@@ -1,14 +1,15 @@
-/* Variáveis CSS: Para nos ajudar a definir certas propriedades assim como fontes e cores em um único lugar. */
+/* CSS Variables: To help us define certain properties such as fonts and colors in one place. */
 
 :root {
     /*colors */
     --color-text: #fff;
     --color-text2: #000;
-    --color-primary: #C71585;
-    --color-secondary: #ff69b4;
-    --color-dark: #851751bd;
-    --color-bg: #FF69B4;
+    --color-primary: #c76b15;
+    --color-secondary: #ffa569;
+    --color-dark: #744545;
+    --color-bg: #965205;
     --color-bg2: #f0ae8d;
+    --color-bg3: #946262;
 
     /*fonts*/
     --font-robot: "Roboto";
